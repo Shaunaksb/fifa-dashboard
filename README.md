@@ -7,7 +7,7 @@
 
 A rigorous, academic-grade comparative analysis dashboard exploring the predictive power of **k-Nearest Neighbors (KNN)** versus **Random Forest (RF)** ensemble methods on a comprehensive football player dataset.
 
-![Dashboard Preview](https://placehold.co/1200x600/1e293b/f8fafc?text=FIFA+Analytics+Dashboard+Preview)
+![Dashboard Preview](https://shaunaksb.github.io/fifa-dashboard)
 
 ## 🎯 Project Overview
 
