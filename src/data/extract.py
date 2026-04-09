@@ -162,7 +162,7 @@ def extract():
     with open(json_path, 'w') as f:
         json.dump(dashboard_data, f, indent=2)
 
-    print("✅ Automated analytical extraction complete!")
+    print("Automated analytical extraction complete!")
 
 if __name__ == "__main__":
     extract()
